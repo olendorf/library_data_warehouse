@@ -6,6 +6,8 @@ This is the public facing content for development of the libraries data warehous
 
 Much of the content will be in the wiki, so please check that out as well.
 
+Personas developed for this committee are housed at https://github.com/psu-libraries/personas
+
 ## Committee Membership
 
 Steve Borelli (co-chair)
