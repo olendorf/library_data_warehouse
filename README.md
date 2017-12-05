@@ -8,6 +8,10 @@ Much of the content will be in the wiki, so please check that out as well.
 
 Personas developed for this committee are housed at https://github.com/psu-libraries/personas
 
+The personas used for this project are
+
+* [Magnus Steuber](https://github.com/psu-libraries/personas/wiki/Magnus-Steuber)
+
 ## Committee Membership
 
 Steve Borelli (co-chair)
