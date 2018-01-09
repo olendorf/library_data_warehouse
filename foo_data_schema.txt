@@ -1,0 +1,2 @@
+var1, integer, 16
+var2, string, 64
