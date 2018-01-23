@@ -13,7 +13,7 @@ Access to this data is via download of a CSV file usin the following steps. Ther
 5. Choose **Standard Formt** format
 6. Uncheck all but **[ ] Patron Count**
 7. Choose an appropriate range in the **Date Range** filter.
-  - **NOTE: More than a year will likely return a file size that is too large for standard HTTP.
+  - NOTE: More than a year will likely return a file size that is too large for standard HTTP.
 8. Click **Build Report**
 9. Save the CSV file.
 
