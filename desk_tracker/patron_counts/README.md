@@ -2,6 +2,13 @@
 
 The Desk Tracker patron counts are entered by some branch libraries at varying intervals, often hourly but it may vary. 
 
+## Contact and Access
+
+URL and login instructions provided in the intranet at https://staff.libraries.psu.edu/toolboxes/desk-tracker. User must have an
+account created for them.
+
+Questions can be directed toward UL-DESKTRACKER@lists.psu.edu
+
 ## Retrieving Data
 
 Access to this data is via download of a CSV file usin the following steps. There does not appear to be an API.
@@ -18,5 +25,11 @@ Access to this data is via download of a CSV file usin the following steps. Ther
      
 8. Click **Build Report**
 9. Save the CSV file.
+
+## Ingest
+
+*Add notes about ingest here*.
+
+## Additional Notes
 
 
