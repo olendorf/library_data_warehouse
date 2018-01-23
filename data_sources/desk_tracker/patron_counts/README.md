@@ -30,6 +30,11 @@ Access to this data is via download of a CSV file usin the following steps. Ther
 
 *Add notes about ingest here*.
 
+## Additional Files
+
+data_dictonary.md provide descriptions of the data fields in the table.
+patron_count_sample.csv is a sample output
+
 ## Additional Notes
 
 
