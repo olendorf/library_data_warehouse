@@ -8,6 +8,8 @@ Much of the content will be in the wiki, so please check that out as well.
 
 Personas developed for this committee are housed at https://github.com/psu-libraries/personas
 
+Much of the work in the form of issues for data source and features are noted as issues. A more organized and prioritized view of the issues can be found at https://waffle.io/psu-libraries/library_data_warehouse.
+
 The personas used for this project are
 
 * [Magnus Steuber](https://github.com/psu-libraries/personas/wiki/Magnus-Steuber)
