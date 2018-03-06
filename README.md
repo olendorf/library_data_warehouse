@@ -17,10 +17,15 @@ The personas used for this project are
 ## Committee Membership
 
 Steve Borelli (co-chair)
+
 Robert Olendorf (co-chair)
+
 Julia Proctor
+
 Nathan Piekielek
+
 Sherry Lonsdale
+
 Matt Ciszek
 
 ## Using
