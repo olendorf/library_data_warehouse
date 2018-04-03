@@ -34,6 +34,6 @@ If you use content from this project, please acknowledge or cite us. DOI will be
 
 ## Contributing
 
-Contributions to this project are welcome. Suggestions can be submitted as issues. Also, you are welcome to fork it and make a pull request.
+The documents in the repository are currently being created and written by the committee as a report to the administration. Suggestions are welcome, however, a full open review of the contents of this project will be done after admin review.
 
 
